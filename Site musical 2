@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ego - Notícias da Música</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ego - Notícias da Música</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#noticias">Notícias</a></li>
+                <li><a href="#contato">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="noticias">
+            <h2>Últimas Notícias</h2>
+            <article>
+                <h3>Nova música de artista famoso bate recordes!</h3>
+                <p>O novo single está dominando as paradas musicais...</p>
+            </article>
+            <article>
+                <h3>Festival de música confirmado para este ano</h3>
+                <p>Grandes nomes estarão presentes no evento...</p>
+            </article>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Ego - Notícias da Música. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
